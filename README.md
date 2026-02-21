@@ -210,7 +210,7 @@ R o/x Treesitter 搜索
 mv ~/.config/nvim ~/.config/nvim.bak
 
 # 克隆配置
-git clone https://github.com/yourusername/nvim-config.git ~/.config/nvim
+git clone https://github.com/lingyanjun/lyNeoVim.git ~/.config/nvim
 
 # 启动 Neovim
 nvim
