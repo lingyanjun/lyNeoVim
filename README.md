@@ -202,6 +202,7 @@ R o/x Treesitter 搜索
 · Git
 · 支持真彩色的终端
 · Nerd Font（推荐）
+. 还有很多如clang等等，总之自己看着报错问AI吧，懒得写文档了😂😂
 
 安装
 
